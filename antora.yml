@@ -1,0 +1,9 @@
+name: Demo
+title: Demo
+version: ~
+start_page: index.adoc
+asciidoc:
+  attributes:
+    test-attribute: Test attribute content
+nav:
+- modules/ROOT/nav.adoc
